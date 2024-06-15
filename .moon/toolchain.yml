@@ -1,0 +1,4 @@
+node:
+  version: '20'
+  packageManager: 'pnpm'
+  dedupeOnLockfileChange: true
